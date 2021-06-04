@@ -13,4 +13,4 @@ const sequelize = new Sequelize(
         dialect: config.database.dialect
     }
 );
-module.exports = sequelize;
+module.exports = sequelize;//comentario
